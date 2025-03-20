@@ -14,3 +14,5 @@ ykhkshhm](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https:/
 
 
  ![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
+
+ ![HTML](https://img.shields.io/badge/HTML-#F7DF1E.svg?&style=for-the-badge&logo=HTML&logoColor=white)
